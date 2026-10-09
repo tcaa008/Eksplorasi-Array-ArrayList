@@ -9,4 +9,4 @@ Tugas latihan/eksplorasi materi Array dan ArrayList pada mata kuliah Pemrograman
 - `Main.java` : Menu ATM interaktif menggunakan Scanner.
 
 ## 📷 Output Program
-![Screenshot Hasil Run](screenshot.png)
+![Screenshot Hasil Run](screenshot.png.png)
